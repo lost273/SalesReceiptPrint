@@ -178,7 +178,7 @@ namespace SalesReceiptPrint
             tb.KeyPress += new KeyPressEventHandler(tb_KeyPress);
         }
 
-        // Обработка нашатия клавиши в ячейке
+        // Обработка нажатия клавиши в ячейке
         void tb_KeyPress(object sender, KeyPressEventArgs e)
         {
 
