@@ -72,7 +72,7 @@ namespace SalesReceiptPrint
 
 
             // Рисуем ООО "Сантиум", УНП 290719859, г.Брест, ул.Кирова, д.50
-            e.Graphics.DrawString("ООО \"Сантиум\", УНП 290719859, г.Брест, ул.Кирова, д.50", drawFontBig, Brushes.Black, widthСoordinate, heightСoordinate);
+            e.Graphics.DrawString("ООО \"Org\", УНП XXXXXXXX, г.XXXX, ул.XXXXX, д.XXX", drawFontBig, Brushes.Black, widthСoordinate, heightСoordinate);
             heightСoordinate = 45;
 
             // Чек и номер
