@@ -71,7 +71,7 @@ namespace SalesReceiptPrint
             int heightСoordinate = 15; // координата высоты
 
 
-            // Рисуем ООО "Сантиум", УНП 290719859, г.Брест, ул.Кирова, д.50
+            // Рисуем реквизиты
             e.Graphics.DrawString("ООО \"Org\", УНП XXXXXXXX, г.XXXX, ул.XXXXX, д.XXX", drawFontBig, Brushes.Black, widthСoordinate, heightСoordinate);
             heightСoordinate = 45;
 
