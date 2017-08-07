@@ -45,7 +45,8 @@ namespace SalesReceiptPrint
         {
             
             if (printDialog1.ShowDialog() == DialogResult.OK) printDocument1.Print();
-            
+
+            // if necessary, viewing how looks printing page
             //printPreviewDialog1.ShowDialog();
 
         }

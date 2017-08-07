@@ -16,3 +16,6 @@ D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesR
 D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.Form1.resources
 D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.Properties.Resources.resources
 D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.csproj.GenerateResource.Cache
+D:\programs\VS2015\Projects\GIT\SalesReceiptPrint\SalesReceiptPrint\bin\Debug\SalesReceiptPrint.exe.config
+D:\programs\VS2015\Projects\GIT\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.exe
+D:\programs\VS2015\Projects\GIT\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.pdb
