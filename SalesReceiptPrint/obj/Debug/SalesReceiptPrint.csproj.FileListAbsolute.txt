@@ -1,0 +1,18 @@
+D:\user\Microsoft Visual Studio\Projects\SalesReceiptPrint\SalesReceiptPrint\bin\Debug\SalesReceiptPrint.exe.config
+D:\user\Microsoft Visual Studio\Projects\SalesReceiptPrint\SalesReceiptPrint\bin\Debug\SalesReceiptPrint.exe
+D:\user\Microsoft Visual Studio\Projects\SalesReceiptPrint\SalesReceiptPrint\bin\Debug\SalesReceiptPrint.pdb
+D:\user\Microsoft Visual Studio\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.csprojResolveAssemblyReference.cache
+D:\user\Microsoft Visual Studio\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.Form1.resources
+D:\user\Microsoft Visual Studio\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.Properties.Resources.resources
+D:\user\Microsoft Visual Studio\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.csproj.GenerateResource.Cache
+D:\user\Microsoft Visual Studio\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.exe
+D:\user\Microsoft Visual Studio\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.pdb
+D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\bin\Debug\SalesReceiptPrint.exe.config
+D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.exe
+D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.pdb
+D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\bin\Debug\SalesReceiptPrint.exe
+D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\bin\Debug\SalesReceiptPrint.pdb
+D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.csprojResolveAssemblyReference.cache
+D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.Form1.resources
+D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.Properties.Resources.resources
+D:\programs\VS2015\Projects\SalesReceiptPrint\SalesReceiptPrint\obj\Debug\SalesReceiptPrint.csproj.GenerateResource.Cache
